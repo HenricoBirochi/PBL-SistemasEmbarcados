@@ -39,7 +39,13 @@ B --> C[Backend ASP.NET Core]
 C --> D[Frontend MVC]
 D --> E[Usuário/Admin]
 ```
+---
 
+## 🗂️ Diagrama do Sistema
+
+<p align="center">
+  <img src="diagramaSistemasEmbarcados.png" alt="Diagrama do Sistema de Monitoramento IoT" width="700"/>
+</p>
 ---
 
 ## 🧠 Aprendizados e Desafios
